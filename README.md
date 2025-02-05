@@ -4,7 +4,7 @@
 
 3. [SOC Incident Playbook](https://github.com/JustinRLew/SOC-incident-playbook)
 
-4. Security Operations Center (SOC) Report Template
+4. SOC Incident Report
 
 5. Security Awareness Guide for Employees
 
