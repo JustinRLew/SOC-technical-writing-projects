@@ -1,7 +1,6 @@
 # SOC Technical Writer Projects
 
-1. Incident Response Plan (IRP) Template
-   Computer Security Incident Response Plan (CSIRP) Template based on NIST 800-61 guidelines.
+1. [Incident Response Plan (IRP) Template based on NIST 800-61 guidelines](https://github.com/JustinRLew/Incident-Response-Plan-Template)
 
 3. SOC Incident Playbook
 
