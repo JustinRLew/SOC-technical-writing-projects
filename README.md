@@ -8,7 +8,7 @@ Links to GitHub Repositories
 
 4. [SOC Incident Report](https://github.com/JustinRLew/SOC-Incident-Report-Example)
 
-5. Security Awareness Guide for Employees
+5. [Security Awareness Guide for Employees](https://github.com/JustinRLew/Security-awareness-guide)
 
 6. SOC Service Level Agreement (SLA) Document
 
