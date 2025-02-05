@@ -1,4 +1,4 @@
-# SOC Technical Writer Projects
+# SOC Technical Writing Projects
 
 Links to GitHub Repositories
 
@@ -12,7 +12,7 @@ Links to GitHub Repositories
 
 6. [SOC Service Level Agreement (SLA) Document](https://github.com/JustinRLew/SOC-SLA-doc-example)
 
-7. Business Case for Security Investment
+7. [Business Case for Security Investment](https://github.com/JustinRLew/Business-Case-for-Security-Investment)
 
 8. Cybersecurity Compliance Checklist
 
