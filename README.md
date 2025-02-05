@@ -4,7 +4,7 @@
 
 3. [SOC Incident Playbook](https://github.com/JustinRLew/SOC-incident-playbook)
 
-4. SOC Incident Report
+4. [SOC Incident Report](https://github.com/JustinRLew/SOC-Incident-Report-Example)
 
 5. Security Awareness Guide for Employees
 
