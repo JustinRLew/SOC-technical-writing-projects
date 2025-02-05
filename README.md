@@ -2,7 +2,7 @@
 
 1. [Incident Response Plan (IRP) Template based on NIST 800-61 guidelines](https://github.com/JustinRLew/Incident-Response-Plan-Template)
 
-3. SOC Incident Playbook
+3. [SOC Incident Playbook](https://github.com/JustinRLew/SOC-incident-playbook)
 
 4. Security Operations Center (SOC) Report Template
 
