@@ -12,12 +12,12 @@ Links to GitHub Repositories
 
 6. [SOC Service Level Agreement (SLA) Document](https://github.com/JustinRLew/SOC-SLA-doc-example)
 
-7. Cybersecurity KPI Dashboard Mockup
+7. Business Case for Security Investment
 
-8. Business Case for Security Investment
+8. Cybersecurity Compliance Checklist
 
-9. Cybersecurity Compliance Checklist
+9. SOC Workflow & Process Flowchart
 
-10. SOC Workflow & Process Flowchart
+10. Technical Writing Sample: Security Policy Document
 
-11. Technical Writing Sample: Security Policy Document
+
