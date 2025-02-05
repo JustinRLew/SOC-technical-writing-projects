@@ -10,7 +10,7 @@ Links to GitHub Repositories
 
 5. [Security Awareness Guide for Employees](https://github.com/JustinRLew/Security-awareness-guide)
 
-6. SOC Service Level Agreement (SLA) Document
+6. [SOC Service Level Agreement (SLA) Document](https://github.com/JustinRLew/SOC-SLA-doc-example)
 
 7. Cybersecurity KPI Dashboard Mockup
 
