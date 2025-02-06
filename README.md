@@ -18,6 +18,6 @@ Links to GitHub Repositories
 
 9. SOC Workflow & Process Flowchart
 
-10. Technical Writing Sample: Security Policy Document
+10. [Technical Writing Sample: Security Policy Document](https://github.com/JustinRLew/Security-Policy-Document-sample)
 
 
