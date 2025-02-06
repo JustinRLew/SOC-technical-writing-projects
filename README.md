@@ -16,7 +16,7 @@ Links to GitHub Repositories
 
 8. [Cybersecurity Compliance Checklist](https://github.com/JustinRLew/Cybersecurity-Compliance-Checklist)
 
-9. SOC Workflow & Process Flowchart
+9. [SOC Workflow & Process Flowchart](https://github.com/JustinRLew/SOC-Workflow)
 
 10. [Technical Writing Sample: Security Policy Document](https://github.com/JustinRLew/Security-Policy-Document-sample)
 
